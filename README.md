@@ -79,7 +79,7 @@ This will run the application on http://localhost:3000.
 
 # Usage
 
-Once the application is running, navigate to http://localhost:3000 in your web browser. A new document will be created with a unique URL that you can share with others for real-time collaboration.
+Once the application is running, navigate to http://localhost:3000 in your web browser. A new document will be created with a unique URL to share with others for real-time collaboration.
 
 -------------------------------
 
